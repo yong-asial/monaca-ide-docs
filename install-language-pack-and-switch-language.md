@@ -18,7 +18,7 @@ You can view the installation logs under the **Terminal** tab.
 
 ![img](img/japanese-language-extension/install-japanese-language-extension-if-not-existed.png)
 
-If the installation is successful, a pop-up dialog will appear in the bottom-right corner. Click **Change Language and Restart** to reload the IDE and apply the Japanese language setting.
+If the installation is successful, a pop-up dialog will appear in the bottom-right corner. Click **"Change Language and Restart"** to reload the IDE and apply the Japanese language setting.
 
 **Note:**  
 
@@ -75,7 +75,7 @@ If the automatic installation fails, follow these steps to install the **Japanes
    ![img](img/japanese-language-extension/choose-ja.png)
 
 4. **Restart the IDE**  
-   - Click **Restart** to apply the language change.
+   - Click **"Restart"** to apply the language change.
 
    ![img](img/japanese-language-extension/change-to-ja.png)
 
@@ -104,7 +104,7 @@ If the automatic installation fails, follow these steps to install the **Japanes
    ![img](img/japanese-language-extension/choose-english.png)
 
 4. **Restart the IDE**  
-   - Click **再起動** to confirm.
+   - Click **"再起動"** to confirm.
 
    ![img](img/japanese-language-extension/change-to-english.png)
 
