@@ -20,7 +20,7 @@ You can resize the previewer by moving your cursor to the **left edge** of the p
 
 The previewer can be repositioned anywhere within the editor group. For example, you can move it next to the file tab (e.g., `index.html`).
 
-1. Click on the **"Preview"** tab.
+1. Click on the **Preview** tab.
 2. Hold down the mouse button and drag it to your desired position.  
    _(In this example, we move it next to the file tab.)_
 
@@ -36,7 +36,7 @@ After repositioning, it may appear as follows:
 
 ### Closing the Previewer
 
-If you no longer need the previewer, you can close it by clicking the **"X"** icon.
+If you no longer need the previewer, you can close it by clicking the **X** icon.
 
 ![img](img/previewer/close-preview.png)
 
@@ -48,7 +48,7 @@ To reopen the previewer:
 
    ![img](img/common/setting-command-palette.png)
 
-2. Search for **"Monaca: Open Preview"** and select it.
+2. Search for **Monaca: Open Preview** and select it.
 
    ![img](img/previewer/open-preview.png)
 
