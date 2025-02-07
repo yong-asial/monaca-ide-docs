@@ -6,3 +6,6 @@
 - [Terminal](terminal.md)
 - [File](file.md)
 - [Extension](extension.md)
+- [Source Control](source-control.md)
+- App Setting
+- Build Setting
