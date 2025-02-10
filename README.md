@@ -7,5 +7,6 @@
 - [File](file.md)
 - [Extension](extension.md)
 - [Source Control](source-control.md)
-- App Setting
-- Build Setting
+- [Project Setting](project-setting.md)
+- [App Setting](app-setting.md)
+- [Build Setting](build-setting.md)
