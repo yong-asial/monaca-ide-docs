@@ -13,7 +13,7 @@ The iOS App Settings page allows to set several commonly used parameter in iOS a
    - Click the **Monaca** icon in the **Activity Bar**.  
    - Under the **"App Settings"** section, select **iOS App Settings**.
 
-2. On the **iOS App Settings** page, page will appear as shown below. You can then start your configuration.
+2. The page will appear as shown below. You can then start your configuration.
 
 3. After finishing the configuration, click **"Save"**.
 

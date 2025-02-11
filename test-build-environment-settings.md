@@ -1,24 +1,19 @@
-# Build Environment Settings
+# Build Environment Settings - User Manual
 
-You can set the environment settings for building applications. The settings are project-specific.
+This guide provides a detailed explanation of the **Build Environment Settings** available in **Monaca Cloud IDE**.
 
-1. Open the **Build Environment Settings** page:  
-   - Click the **Monaca** icon in the **Activity Bar**.  
-   - Under the **"Build"** section, select **Build Environment Settings**.
+---
 
-2. The page will appear as shown below. You can then start your configuration.
+## 1. iOS Build Environment Settings
 
-3. After finishing the configuration, click **"Save"**.
-
-  ![img](img/build-env-setting/build-env-setting.png)
-
-## iOS
+### Fields Explanation:
 
 - **Platform:**  
   - Displays the iOS platform version used for building the app.
 
 - **Xcode Version:**  
   - Select the Xcode version used for compiling the iOS application.
+  - Options include **Xcode 13** and **Xcode 14.2.0**.
 
 - **Build Flag:**  
   - Specify additional build flags for debugging and release builds.
@@ -30,10 +25,13 @@ You can set the environment settings for building applications. The settings are
 
 ---
 
-## Android
+## 2. Android Build Environment Settings
+
+### Fields Explanation:
 
 - **Platform:**  
   - Select the Android version to build the app.
+  - Options include **Android 10.1.1, Android 10.1.2, and Android 11.0.0**.
 
 - **Package Type:**  
   - Choose the output package format for the Android build:
@@ -42,7 +40,9 @@ You can set the environment settings for building applications. The settings are
 
 ---
 
-## Other Build Options
+## 3. Other Build Options
+
+### Fields Explanation:
 
 - **npm install command line options:**  
   - Enables additional options for managing Node.js package installations.
@@ -58,7 +58,10 @@ You can set the environment settings for building applications. The settings are
 
 ---
 
-## Notes
+## 4. Saving Changes
 
-- This page is only for Cordova projects.
-- Some settings may vary depending on the Cordova version.
+Once you have configured the settings, click **Save** to apply the changes.
+
+---
+
+This guide explains all fields in the **Build Environment Settings** section of **Monaca Cloud IDE**.
