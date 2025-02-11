@@ -1,31 +1,14 @@
-# iOS App Setting
+# Capacitor iOS Configuration - User Manual
 
-There are 2 ways to configure your iOS apps:
+This guide provides a detailed explanation of the **Capacitor iOS Configuration** settings available in **Monaca Cloud IDE**.
 
-- Configure via the IDE
-- Configure via configuration files directly
+---
 
-## Configure via the IDE
-
-The iOS App Settings page allows to set several commonly used parameter in iOS app. Please follow the following instruction in order to access the iOS App Setting page in the IDE:
-
-1. Open the **iOS App Settings** page:  
-   - Click the **Monaca** icon in the **Activity Bar**.  
-   - Under the **"App Settings"** section, select **iOS App Settings**.
-
-2. On the **iOS App Settings** page, page will appear as shown below. You can then start your configuration.
-
-3. After finishing the configuration, click **"Save"**.
-
-    ![img](img/capacitor-ios-app-setting/capacitor-ios-app-setting.png)
-
-### Configurable Parameters
-
-In the iOS App Settings page, you can configure the parameters such as application information, icons, splash files, permissions and additional features. The following are the list of parameters can be configured via the page:
-
-#### Application Information
+## 1. Application Information
 
 The **Application Information** section allows you to configure essential details for your iOS app.
+
+### Fields Explanation:
 
 - **Application Name (Required):**  
   - The name of your application that will appear on the device's home screen.
@@ -48,9 +31,11 @@ The **Application Information** section allows you to configure essential detail
 
 ---
 
-#### Icons & Splash Screen Configuration
+## 2. Icons & Splash Screen Configuration
 
 The **Icons & Splash Screen** section allows you to upload and manage your appâ€™s icons and splash screen.
+
+### Fields Explanation:
 
 - **App Icon:**  
   - Upload an **App Icon** in **PNG or SVG format**.  
@@ -68,15 +53,21 @@ The **Icons & Splash Screen** section allows you to upload and manage your appâ€
 
 ---
 
-#### Target Device Family
+## 3. Target Device Family
 
 The **Target Device Family** section lets you choose the devices your app will support.
 
+### Options:
+- **iPhone** - The app will be available for iPhone devices.
+- **iPad** - The app will be available for iPad devices.
+
 ---
 
-#### Miscellaneous Settings
+## 4. Miscellaneous Settings
 
 The **Misc** section provides additional configurations for your app.
+
+### Fields Explanation:
 
 - **Screen Orientation:**  
   - Defines how the app is displayed on the device.
@@ -87,15 +78,10 @@ The **Misc** section provides additional configurations for your app.
 
 ---
 
-## Configure via configuration files
+## 5. Saving Changes
 
-All the configuration parameters of an iOS app are stored in the files as follows:
-
-- [Capacitor Config](https://capacitorjs.com/docs/config#example)
-- [Trapeze Config](https://trapeze.dev/docs/Frameworks/capacitor)
+Once you have configured the settings, click **Save** to apply the changes. Some changes require **rebuilding** the app for them to take effect.
 
 ---
 
-## Notes
-
-- Some settings apply to both Android and iOS.
+This guide explains all fields in the **Capacitor iOS Configuration** section of **Monaca Cloud IDE**.
